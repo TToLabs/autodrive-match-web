@@ -1,0 +1,28 @@
+{
+  "name": "AutoDrive MATCH",
+  "short_name": "AutoDrive",
+  "description": "Ingresa a AutoDrive y haz MATCH con tu próximo auto de trabajo",
+  "start_url": "/autodrive-match-web/catalogo",
+  "display": "standalone",
+  "background_color": "#F4F3EE",
+  "theme_color": "#1B2A4A",
+  "icons": [
+    {
+      "src": "/autodrive-match-web/icono.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/autodrive-match-web/icono-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/autodrive-match-web/icono-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "scope": "/autodrive-match-web/"
+}
