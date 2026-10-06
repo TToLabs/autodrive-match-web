@@ -1,7 +1,7 @@
 {
-  "version": "0.8.0",
-  "versionCode": 8,
+  "version": "0.9.0",
+  "versionCode": 9,
   "url": "https://github.com/TToLabs/autodrive-match-web/releases/download/latest/autodrive-match.apk",
-  "sha256": "2dba370c6c0c9b8b743f58c1b472b53d00a3c1e8c641bec0bb1c13d69265296f",
-  "notas": "Validación al iniciar sesión, comuna y región, ficha del conductor, avisos, cilindrada y transmisión, menú de cuenta por pantallas."
+  "sha256": "c6fea73b3f0eb4617c67ed2200a96cab2797f6844c89b12e74a7a2786167850d",
+  "notas": "Cédula y licencia con cámara, splash con texto y avisos corregidos."
 }
