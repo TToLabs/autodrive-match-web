@@ -1,7 +1,7 @@
 {
-  "version": "0.10.0",
-  "versionCode": 10,
+  "version": "0.11.0",
+  "versionCode": 11,
   "url": "https://github.com/TToLabs/autodrive-match-web/releases/download/latest/autodrive-match.apk",
-  "sha256": "60cd979ae00e3a6f13b36b52ddf7f82e07a558fc7de5a467aa5cda5d7c154046",
-  "notas": "Inicio directo al catálogo, menú con ingreso y Publicar auto, términos Conductor y Dueño."
+  "sha256": "20e655e32a5900604ad42d77911a2ea7566883c9fceb86f00a8cc1a4b11cfd1b",
+  "notas": "5 autos demo con aviso, visor de fotos con zoom, sello Certificado, octanaje 93/95/97, tres vueltas en el catálogo y nuevo aviso de actualización."
 }
