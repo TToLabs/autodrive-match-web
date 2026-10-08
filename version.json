@@ -1,7 +1,7 @@
 {
-  "version": "0.11.4",
-  "versionCode": 15,
+  "version": "0.11.9",
+  "versionCode": 20,
   "url": "https://github.com/TToLabs/autodrive-match-web/releases/download/latest/autodrive-match.apk",
-  "sha256": "57d030f8244d9e1e59f65fa58884fd402b6a275d0178e5d84de2705695344f3f",
-  "notas": "Sello Certificado arriba a la izquierda y Ver fotos abajo a la derecha; sin pantalla blanca al abrir."
+  "sha256": "5f4b1d5889ba405f45297a5a4f05cbf29c230784deee784348be663b67386feb",
+  "notas": "Pantalla de ingreso continua con puntos animados, sin pantalla blanca; sello Certificado y Ver fotos reubicados."
 }
