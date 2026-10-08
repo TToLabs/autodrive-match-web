@@ -1,7 +1,7 @@
 {
-  "version": "0.11.3",
-  "versionCode": 14,
+  "version": "0.11.4",
+  "versionCode": 15,
   "url": "https://github.com/TToLabs/autodrive-match-web/releases/download/latest/autodrive-match.apk",
-  "sha256": "ec19fac81a1526487c2158f6c4e2ff5fad9c4d691eb35c012aadb4f32a8459a0",
-  "notas": "Corrige la pantalla blanca al abrir: el splash espera a que cargue la app."
+  "sha256": "57d030f8244d9e1e59f65fa58884fd402b6a275d0178e5d84de2705695344f3f",
+  "notas": "Sello Certificado arriba a la izquierda y Ver fotos abajo a la derecha; sin pantalla blanca al abrir."
 }
